@@ -2,6 +2,10 @@
 # CNIX v2.0 - Moroccan Card ID Software Reader/Scanner
 ![alt text](https://github.com/AyoubSghuri/CNIX-v2.0/blob/main/assets/frame0/button_26.png?raw=true)
 
+## Image of software
+![alt text](https://github.com/AyoubSghuri/CNIX-v2.0/blob/main/assets/front.png?raw=true)
+
+
 Welcome to CNIX v2.0, a comprehensive solution for reading and processing Moroccan ID cards. This software utilizes advanced image processing and optical character recognition (OCR) techniques to extract, validate, and manage data from ID cards and images containing numerical information.
 
 ## Features
