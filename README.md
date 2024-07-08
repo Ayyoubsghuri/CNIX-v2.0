@@ -1,5 +1,6 @@
 
 # CNIX v2.0 - Moroccan Card ID Software Reader/Scanner
+![alt text](https://github.com/AyoubSghuri/?raw=true)
 
 Welcome to CNIX v2.0, a comprehensive solution for reading and processing Moroccan ID cards. This software utilizes advanced image processing and optical character recognition (OCR) techniques to extract, validate, and manage data from ID cards and images containing numerical information.
 
@@ -29,7 +30,7 @@ Welcome to CNIX v2.0, a comprehensive solution for reading and processing Morocc
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/cnix-v2.0.git
+    git clone https://github.com/AyoubSghuri/cnix-v2.0.git
     cd cnix-v2.0
     ```
 
@@ -62,6 +63,10 @@ Welcome to CNIX v2.0, a comprehensive solution for reading and processing Morocc
     - Use the search bar to find records quickly, with autocomplete suggestions based on existing database entries.
     - Autofill forms using data retrieved from the database.
 
+
+## Figma Design
+[Design on Figma](https://www.figma.com/design/iWLjW4vWQ86xIHM8RWPXtD/CNIX-V2.0?node-id=0-1&t=2iFFEOzLhV9J0lBn-1)
+
 ## Contributing
 
 We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to get involved.
@@ -70,10 +75,7 @@ We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) fil
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Acknowledgements
-
-We would like to thank all the contributors and the open-source community for their valuable work and resources.
 
 ---
 
-For more details and updates, visit our [GitHub repository](https://github.com/yourusername/cnix-v2.0).
+For more details and updates, visit our [GitHub repository](https://github.com/AyoubSghuri/cnix-v2.0).
