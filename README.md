@@ -1,7 +1,5 @@
 
 # CNIX v2.0 - Moroccan Card ID Software Reader/Scanner
-![alt text](https://github.com/AyoubSghuri/CNIX-v2.0/blob/main/assets/frame0/button_26.png?raw=true)
-
 ## Image of software
 ![alt text](https://github.com/AyoubSghuri/CNIX-v2.0/blob/main/assets/front.png?raw=true)
 
